@@ -1,0 +1,78 @@
+/* CSS - Cascading Style Sheets */
+
+
+html {
+    height: 100%;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    height: 100%;
+  }
+  
+  h1 {
+    font-family: 'Tilt Warp', cursive;
+    font-size: 40px;
+    margin: 0;
+    color: white;
+  }
+  #myWhyButton {
+    color: white;
+    font-size: 20px;
+    border: 1px solid white;
+    padding: 5px 20px;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.15)
+  }
+  img {
+    border: 1px solid rgba(255, 255, 255, 0.75);
+    border-radius: 5%;
+  }
+  
+  button {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%25' width='100%25'%3E%3Cdefs%3E%3Cpattern id='doodad' width='144' height='144' viewBox='0 0 40 40' patternUnits='userSpaceOnUse' patternTransform='rotate(134)'%3E%3Crect width='100%25' height='100%25' fill='rgba(66, 153, 225,1)'/%3E%3Cpath d='m10 0v40h0.1v-40z' fill='rgba(247, 250, 252,0.5)'/%3E%3C/pattern%3E%3C/defs%3E%3Crect fill='url(%23doodad)' height='200%25' width='200%25'/%3E%3C/svg%3E ");
+    height: 100%;
+  }
+  
+  .container {
+    max-width: 400px;
+    height: 400px;
+    padding: 0 20px;
+    /* outline: 1px solid red; */
+  }
+  
+  #myWhyText {
+    width: 100%;
+    margin: 10px 0 10px;
+    display: none;
+  }
+  
+  .animate {
+    animation: fadeIn 1s ease-in;
+  }
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    50% {
+      opacity: .5;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
