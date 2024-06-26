@@ -4,17 +4,17 @@ html,body,h1,h2,h3,h4,h5,h6 {
 
 /* Dark mode attempt 2 */
 :root {
-    --background-color-light: #ffffff;
-    --text-color-light: #000000;
-    --background-color-dark: #121212;
-    --text-color-dark: #ffffff;
+    --background-color-light: #ffffff !important;
+    --text-color-light: #000000 !important;
+    --background-color-dark: #121212 !important;
+    --text-color-dark: #ffffff !important;
   }
 
   body {
-    background-color: var(--background-color-light);
-    color: var(--text-color-light);
+    background-color: var(--background-color-light) !important;
+    color: var(--text-color-light) !important;
   }
   .dark-mode {
-    background-color: var(--background-color-dark);
-    color: var(--text-color-dark);
+    background-color: var(--background-color-dark) !important;
+    color: var(--text-color-dark) !important;
   }
