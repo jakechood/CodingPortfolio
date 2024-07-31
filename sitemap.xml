@@ -1,0 +1,365 @@
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+    <!-- The Grid -->
+    <div class="w3-row-padding">
+    
+      <!-- Left Column -->
+      <div class="w3-third">
+        <!-- Information Card -->
+        <div class="w3-white w3-text-grey w3-card-4" id="infoCard">
+          <div class="w3-display-container">
+            <img src="images/jsHeadshot2024.png" style="width:100%" alt="Avatar">
+            <fullName>
+              <firstName>Jake</firstName>
+              <middleInitial>C</middleInitial>
+              <lastName>Hood</lastName>
+            </fullName>
+          </div>
+          <div class="w3-container">
+            <title>Full&dash;Stack&nbsp;Software&nbsp;Engineer</title>
+            <homeAddress>
+                <city>Temple</city>
+                <state>TX</state>
+                <zip>76504</zip>
+                <country>United States of America</country>
+            </homeAddress>
+            <p><i class="fa fa-compass fa-fw w3-margin-right w3-large w3-text-purple"></i>Willing&nbsp;to&nbsp;Relocate&colon; Seattle&comma;&nbsp;Denver&comma;&nbsp;Vermont</p>
+            <p><a type="email" href="mailto:jaceksturgill@gmail.com"><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-purple"></i>jakechood&commat;gmail&period;com</a></p>
+            <p><a type="phone" href="tel:+14698367003"><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-purple"></i>
+                  &lpar;469&rpar;&nbsp;836&ndash;7003</a></p>
+            <hr>
+  
+            <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-purple"></i>Skills</b></p>
+            <p>Creative&nbsp;Design</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small" id="slider1">
+              <div class="w3-container w3-center w3-round-xlarge w3-purple" style="width:90%">90%</div>
+            </div>
+            <p>Collaboration</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small" id="slider2">
+              <div class="w3-container w3-center w3-round-xlarge w3-purple" style="width:80%">
+                <div class="w3-center w3-text-white">80%</div>
+              </div>
+            </div>
+            <p>Security&ndash;Centered&nbsp;Programming</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small" id="slider3">
+              <div class="w3-container w3-center w3-round-xlarge w3-purple" style="width:75%">75%</div>
+            </div>
+            <p>Technical&nbsp;Documentation</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small" id="slider4">
+              <div class="w3-container w3-center w3-round-xlarge w3-purple" style="width:75%">75%</div>
+            </div>
+            <p>Test&ndash;Driven&nbsp;Development</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small" id="slider5">
+              <div class="w3-container w3-center w3-round-xlarge w3-purple" style="width:60%">60%</div>
+            </div>
+            
+            <br>
+  
+            <p class="w3-large w3-text-theme"><b><i class="fa fa-code fa-fw w3-margin-right w3-text-purple"></i>Programming&nbsp;Languages &amp; Tools</b></p>
+            <p>HTML5&sol;CSS3&sol;JS&sol;XML&nbsp;Stack</p>
+            <div class="w3-light-grey w3-round-xlarge">
+              <div class="w3-round-xlarge w3-purple w3-center w3-text-white" style="height:24px;width:90%">Experienced&nbsp;&amp;&nbsp;Professional</div>
+            </div>
+            <p>Visual&nbsp;Studio&nbsp;Code&comma; Git&comma; Github&comma; Gitlab &comma; Gitkraken</p>
+            <div class="w3-light-grey w3-round-xlarge">
+              <div class="w3-round-xlarge w3-purple w3-center w3-text-white" style="height:24px;width:90%">Experienced&nbsp;&amp;&nbsp;Professional</div>
+            </div>
+            <p>Python&comma; SQL&comma; W3&period;CSS&comma; Vue&period;js&comma; React&period;js&comma; jQuery&comma; Angular&comma; JSON</p>
+            <div class="w3-light-grey w3-round-xlarge">
+              <div class="w3-round-xlarge w3-purple w3-center w3-text-white" style="height:24px;width:75%">Confident</div>
+            </div>
+            <p>Atlassian&comma; Jira&comma; Confluence&comma; Azure&comma; Apache&comma; Swift</p>
+            <div class="w3-light-grey w3-round-xlarge">
+              <div class="w3-round-xlarge w3-purple w3-center w3-text-white" style="height:24px;width:40%">Studied</div>
+            </div>
+            <p>Java&comma; Coral&comma; Node.js&comma; AWS</p>
+            <div class="w3-light-grey w3-round-xlarge">
+              <div class="w3-round-xlarge w3-purple w3-center w3-text-white" style="height:24px;width:25%">Exposed</div>
+            </div>
+            <br>
+  
+            <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-purple"></i>Communicative&nbsp;Languages</b></p>
+            <p>English</p>
+            <div class="w3-light-grey w3-round-xlarge">
+              <div class="w3-round-xlarge w3-purple w3-center w3-text-white" style="height:24px;width:100%">Fluent</div>
+            </div>
+            <p>Spanish</p>
+            <div class="w3-light-grey w3-round-xlarge">
+              <div class="w3-round-xlarge w3-purple w3-center w3-text-white" style="height:24px;width:75%">Familiar&sol;Professional</div>
+            </div>
+            <p>American&nbsp;Sign&nbsp;Language</p>
+            <div class="w3-light-grey w3-round-xlarge">
+              <div class="w3-round-xlarge w3-purple w3-center w3-text-white" style="height:24px;width:40%">Polite</div>
+            </div>
+            <p>German</p>
+            <div class="w3-light-grey w3-round-xlarge">
+              <div class="w3-round-xlarge w3-purple w3-center w3-text-white" style="height:24px;width:25%">Beginner</div>
+            </div>
+            <br>
+          </div>
+        </div><br>
+      <!-- End First Card of Left Column -->
+  
+      <!-- Projects Card -->
+  
+      <div class="w3-white w3-text-grey w3-card-4">
+        <div class="w3-container">
+  
+          <p class="w3-large"><b><i class="fa fa-archive fa-fw w3-margin-right w3-text-purple"></i>Web&nbsp;Projects</b></p>
+          <!-- Github Homepage -->
+          <p><a href="https://github.com/jakechood"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>GitHub&nbsp;Home</a></p>
+          <!-- Clickable SVG Map 
+          <p><a href="https://jakechood.github.io/clickMap/"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>Angular&nbsp;Clickable&nbsp;World&nbsp;Map with Geonames&period;org&nbsp;API</a></p> -->
+                
+          <!-- Taniti Island UX Design  -->
+          <p><a href="https://jakechood.github.io/taniti/"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>User&nbsp;Experience&nbsp;Design&comma; &ldquo;Taniti Island Tourism&rdquo;</a></p>
+          <!-- Pet Pros UI Design  -->
+          <p><a href="https://jakechood.github.io/petpros/"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>User&nbsp;Interface&nbsp;Design&comma; &ldquo;Paradigm Pet Professionals&rdquo;</a></p>
+          <!-- First Webpage Published -->
+          <p><a href="https://jakechood.github.io/first_website/"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>First&nbsp;Webpage&nbsp;Published</a></p>
+          <!-- Colorado Multipage Site -->
+          <p><a href="https://jakechood.github.io/D277/"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>Colorado&nbsp;State&nbsp;Multipage&nbsp;Site</a></p>
+          <!-- Sanford Meisner Bio w/Section Links -->
+          <p><a href="https://jakechood.github.io/W_S1M4_Project-main/"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>Sanford&nbsp;Meisner Biography with Section Links</a></p>
+          <!-- Responsive Menu Containers  -->
+          <p><a href="https://jakechood.github.io/module2solution/"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>Responsive Menu Containers</a></p>
+          <!-- Multiple Page Nav with Dark/Light Mode  -->
+          <p><a href="https://jakechood.github.io/project_1/"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>Multiple Page Navigation with Dark&sol;Light Modes</a></p>
+        </div>
+      </div><br>
+  
+      <!-- Python Modules Card -->
+  
+      <div class="w3-white w3-text-grey w3-card-4">
+        <div class="w3-container">
+  
+          <p class="w3-large"><b><i class="fa fa-code-fork fa-fw w3-margin-right w3-text-purple"></i>Python&nbsp;Modules</b></p>
+          <!-- Llama -->
+          <p><a href="https://replit.com/@jaceksturgill/fullllamapy#llama_wordguess"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>Llama Drawing with Turtle</a></p>
+          <!-- Calculations -->
+          <p><a href="https://replit.com/@jaceksturgill/fullllamapy#calc.py"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>Various Calculations</a></p>
+          <!-- Infinite Loop with Escape -->
+          <p><a href="https://replit.com/@jaceksturgill/fullllamapy#infinite_loop.py"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>Infinite Loop with Escape</a></p>
+          <!-- Time Functions -->
+          <p><a href="https://replit.com/@jaceksturgill/fullllamapy#pa1.py"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>Time Functions</a></p>
+          <!-- Secret Number -->
+          <p><a href="https://replit.com/@jaceksturgill/fullllamapy#secret_num.py"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>Secret Number</a></p>
+          <!-- Secret Number -->
+          <p><a href="https://replit.com/@jaceksturgill/fullllamapy#tax_thalers.py"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>Thaler Tax</a></p>
+          <!-- Temperature Conversions -->
+          <p><a href="https://replit.com/@jaceksturgill/fullllamapy#temperature.py"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>Temperature Conversions</a></p>
+          <!-- More Time Math -->
+          <p><a href="https://replit.com/@jaceksturgill/fullllamapy#timey_math.py"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>More Time Math</a></p>
+  
+          
+        </div>
+      </div><br>
+  
+      <!-- End Left Column -->
+      </div>
+  
+      <!-- Right Column -->
+      <div class="w3-twothird">
+        <!-- Personal Summary Card -->
+        <div class="w3-container w3-card w3-white w3-margin-bottom">
+          <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-purple"></i>Professional&nbsp;Summary</h2>
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Introduction</b></h5>
+            <p>After growing up in small&dash;town Northeast Texas and graduating at the top of my class&comma; I pursued further education and was anointed my first degree with Honors&period; I had the good fortune to serve for six years as a technical theatre director for three of the largest school districts in Texas&comma; successfully growing and developing each program during my respective tenures&comma; before being inspired to expand my capabilities into the digital space&period; Soon to graduate with another degree&comma; this time in Software Engineering&comma; I look forward to bringing my optimism&comma; upbeat personality&comma; resourcefulness&comma; and determination to support your solution development team&excl;</p>
+            <hr>
+            <h5 class="w3-opacity"><b>Professional&nbsp;Goals</b></h5>
+              <p>2024 &vert; 71&percnt; Completed &vert; Graduate with Bachelor of Science in Software Engineering from Western Governors University</p>
+              <p>2025 &vert; 34&percnt; Completed &vert; Earn professional certificate in Game Theory and&sol;or Game Design</p>
+              <p>2030 &vert; Research Phase &vert; Publish public&sol;open&dash;source gamified&comma; accessible&comma; extended&dash;reality performing arts education solution</p>
+          </div>
+        </div>
+  
+  
+        <!-- Work Experience Card -->
+        <div class="w3-container w3-card w3-white w3-margin-bottom">
+          <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-purple"></i>Work Experience</h2>
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Owner&comma;&nbsp;Operator &sol; Phantasmagoria&nbsp;Designs</b></h5>
+            <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2023 &ndash; <span class="w3-tag w3-purple w3-round">Current</span></h6>
+            <p>
+              <ul>
+                <li>Led expansion within one year of opening from providing solely static 2D digital art creation to additionally include interactive 3D experience and web app design capabilities in the service catalog</li>
+                <li>Freelance, commission, and technical drafting services provided via online interface</li>
+                <li>Oversee budgetary and financial activities and implement strategies to grow business and profits</li>
+                <li>Full automation of sales and delivery processes for all physical products</li>
+              </ul>
+            </p>
+            <hr>
+          </div>
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Director&nbsp;of&nbsp;Theatre &sol; Rancier&nbsp;Middle&nbsp;School</b></h5>
+            <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2021 &ndash; 2022</h6>
+            <p>
+              <ul>
+                <li>Developed and maintained purchasing&comma; accounting&comma; ticketing&comma; and tracking systems and processes for multiple departments</li>
+                <li>Devised and implemented strategies to create new revenue streams and cut operational costs</li>
+                <li>Orchestrated license agreements for script&comma; sound&comma; performance rights&comma; talent media releases&comma; and distribution contracts</li>
+                <li>Observed tight deadlines&comma; creative restrictions&comma; and strict budgetary controls to avoid waste and streamline costs</li>
+              </ul>
+            </p>
+            <hr>
+          </div>
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Technical&nbsp;Director &amp; UIL&nbsp;Coordinator &sol; Marshall&nbsp;ISD</b></h5>
+            <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2019 &ndash; 2020</h6>
+            <p>
+              <ul>
+                <li>Successfully coordinated a professional agreement with representatives of Mr&period; Jason Mraz for educational creative license usage of one of his published pieces at the height of the COVID&dash;19 crisis</li>
+                <li>Identified and approved equipment and elements required for productions&comma; classrooms&comma; and programs</li>
+                <li>Coordinated logistics and operations for multiple extracurricular programs concurrently &lpar;Teams of 2&ndash;525&plus;&rpar;</li>
+                <li>Developed&comma; assisted with&comma; and facilitated appropriate&comma; efficient&comma; and effective communication among competitive district coaching team of 72 while directing implementation of all applicable COVID&ndash;19 guidelines&comma; logistics&comma; and safety directives</li>
+              </ul> 
+            </p>
+            <hr>
+            <br>
+          </div>
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Director of Theatre&nbsp;Arts&comma; Auditorium&nbsp;Supervisor &sol; Mount&nbsp;Pleasant&nbsp;ISD</b></h5>
+            <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2017 &ndash; 2019</h6>
+            <p>
+              <ul>
+                <li>Directed and oversaw auditorium assets&comma; inventory&comma; functions&comma; and logistics including production management and development&comma; emerging brand creation&comma; and box office marketing and operations</li>
+                <li>Directed development of pre-pandemic hybrid&comma; in&ndash;person&comma; and online training courses with assistance from campus counselors for team members with limited access</li>
+                <li>Cultivated strong professional relationships with suppliers and key clients to drive long&ndash;term business development</li>
+                <li>Evolved outbound sales efforts by incorporating best practices and capitalizing on industry trends</li>
+                <li>Led sales planning&comma; development and account management to grow existing accounts and establish new sales accounts</li>
+              </li>
+              </ul> 
+            </p>
+            <hr>
+            <br>
+          </div>
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Server&comma; Shift&nbsp;Leader &sol; Chili&apos;s&nbsp;Bar&nbsp;&amp;&nbsp;Grill</b></h5>
+            <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2016 &ndash; 2020</h6>
+            <p>
+              <ul>
+                <li>Ensured customer satisfaction and handled customer complaints in a professional manner</li>
+                <li>Provided leadership to servers and other restaurant staff members by setting an example of excellent service</li>
+                <li>Assisted with training new servers on company policies and procedures as well as proper food handling techniques</li>
+                <li>Resolved conflicts between customers or employees in a timely manner while following company guidelines for dispute resolution</li>
+              </ul> 
+            </p>
+            <hr>
+            <br>
+          </div>
+        </div>
+  
+        <div class="w3-container w3-card w3-white w3-margin-bottom">
+          <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-purple"></i>Education</h2>
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Western&nbsp;Governors&nbsp;University</b></h5>
+            <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Expected&nbsp;10&sol;2024</h6>
+            <p>Bachelor of Science in Software&nbsp;Engineering</p>
+            <p>
+              <ul>
+                <li>I&period;T&period;&nbsp;is&nbsp;Everywhere Scholarship Recipient</li>
+              </ul>
+            </p>
+            <hr>
+          </div>
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Texas A&amp;M University&ndash;Commerce</b></h5>
+            <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>8&sol;2017</h6>
+            <p>Bachelor of Science in Theatre</p>
+            <p>
+              <ul>
+                <li>Cum Laude&comma; with Honors</li>
+                <li>GPA&colon; 3&period;69</li>
+                <li>Minor in Interdisciplinary Studies&semi; Focus in Music and Education</li>
+                <li>Honors College Graduate</li>
+                <li>Valedictorian Scholarship Recipient</li>
+                <li>Vienna&comma; Austria Studies Abroad on Choral Arts</li> 
+                <li>Thesis&colon; The Importance of Relative Omniscience in Successful Modern Theatre&colon; An Academic Dissection of &ldquo;Phantasmagoria&comma;&rdquo; A Theatrical Production Written and Designed by Jake &lpar;Ne&eacute;&nbsp;Jace&rpar; Sturgill</li>
+              </ul>
+            </p>
+            <hr>
+          </div>
+        </div>
+  
+        <div class="w3-container w3-card w3-white w3-margin-bottom">
+          <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-shield fa-fw w3-margin-right w3-xxlarge w3-text-purple"></i>Certifications</h2>
+          
+          <div class="w3-container">
+            <h5 class="w3-opacity"><a href="https://api.badgr.io/public/assertions/5f_21AMOTU2wQ0rqxC2Jrg?identity__email=jstur80%40wgu.edu"><b>WGU Front End Developer</b></a></h5>
+            <iframe src="https://api.badgr.io/public/assertions/5f_21AMOTU2wQ0rqxC2Jrg?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=jstur80%40wgu.edu" title="Badge: WGU Certificate: Front-End Developer" style="width: 330px; height: 191px; border: 0px;"></iframe>
+            <hr>
+          </div>
+          
+          
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>AWS Certified Cloud Practitioner</b></h5>
+            <p>Validation Number 9f98d6a03cf1485ab9cf4d44f3ba4149</p>
+            <hr>
+          </div>
+  
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>ITILv4 Foundation Certified</b></h5>
+            <p>Candidate Number 9980016826939808</p>
+            <hr>
+          </div>
+  
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b><a href="https://coursera.org/verify/LUGLGHFR35YI">Google Foundations of Project Management</a></b></h5>
+            <hr>
+          </div>
+  
+          <div class="w3-container">
+            <h5 class="w3-opacity" ><b><a href="https://coursera.org/verify/T2FZUKU25B7U">Google Foundations of Cybersecurity</a></b></h5>
+            <hr>
+          </div>
+          
+          <div class="w3-container">
+            <h5 class="w3-opacity"><a href="https://coursera.org/verify/U7RRP88775C"><b>Learn to Program&colon; The Fundamentals &vert; University of Toronto</a></b></h5>
+            <hr>
+          </div>
+  
+          <div class="w3-container">
+            <h5 class="w3-opacity" ><b><a href="https://coursera.org/verify/RSRHWZFCLFMB">Google Connect and Protect&colon; Networks and Network Security</a></b></h5>
+            <hr>
+          </div>
+  
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b><a href="https://coursera.org/verify/8LTHLD55QGAX">Google Play it Safe&colon; Manage Security Risks</a></b></h5>
+            <hr>
+          </div>
+  
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Texas&nbsp;Educator&colon; Theatre&nbsp;EC&ndash;12</b></h5>
+            <p>TEA&nbsp;ID 2116690</p>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="w3-container w3-card w3-white w3-margin-bottom">
+          <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-trophy fa-fw w3-margin-right w3-xxlarge w3-text-purple"></i>Accomplishments</h2>
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Director of Advancing Play and Best Technical Crew</b></h5>
+            <p>March 2022 &vert; UIL Theatre Competition</p>
+            <hr>
+          </div>
+  
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Employee of the Month</b></h5>
+            <p>December 2019 &vert; Chili&apos;s Grill and Bar</p>
+            <hr>
+          </div>
+        </div>
+  
+  
+  
+      <!-- End Right Column -->
+      </div>
+      <!-- Centered Recommendation letter -->
+      <!-- <div class="w3-center"><embed src="./future_recommendation_letter.pdf" width="800px" height="2100px" /></div> -->
+    <!-- End Grid -->
+    </div>
+    
+    <!-- End Page Container -->
+  </div>
+  
