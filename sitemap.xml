@@ -8,22 +8,25 @@
         <GivenName>Jake</GivenName>
         <MiddleName>C</MiddleName>
         <FamilyName>Hood</FamilyName>
+        
     </PersonName>
     
     <ContactMethod>
+        
+        <Mobile>
+                <FormattedNumber>+1.469.836.7003</FormattedNumber>
+        </Mobile>
+        <InternetEmailAddress>jakechood@gmail.com</InternetEmailAddress>
+        
         <PostalAddress>
             <CountryCode>US</CountryCode>
             <PostalCode>76504</PostalCode>
         </PostalAddress>
-        <Email href="mailto:jakechood@gmail.com">jakechood@gmail.com</Email>
-        <Telephone>
-            <FormattedNumber>+1.469.836.7003</FormattedNumber>
-        </Telephone>
-        <URL>https://jakechood.com</URL>
     </ContactMethod>
 
     
     </ContactInfo>
+    
 
     <ExecutiveSummary>
         After growing up in small-town Northeast Texas and graduating at the top of my class, I pursued further education and was anointed my first degree with Honors. I had the good fortune to serve for six years as a technical theatre director for three of the largest school districts in Texas, successfully growing and developing each program during my respective tenures, before being inspired to expand my capabilities into the digital space. Soon to graduate with another degree, this time in Software Engineering, I look forward to bringing my optimism, upbeat personality, resourcefulness, and determination to support your solution development team!
@@ -33,17 +36,29 @@
         Full-Stack Software Engineer
     </Objective>
     <EmploymentHistory>
-        <Job>
-            <JobTitle>Owner, Operator</JobTitle>
-            <Employer>
-                <Company>Phantasmagoria Designs</Company>
-            </Employer>
-              <From>2023</From> <To><Present></Present></To>
-                <Description>Led expansion within one year of opening from providing solely static 2D digital art creation to additionally include interactive 3D experience and web app design capabilities in the service catalog</Description>
-                <Description>Freelance, commission, and technical drafting services provided via online interface</Description>
-                <Description>Oversee budgetary and financial activities and implement strategies to grow business and profits</Description>
-                <Description>Full automation of sales and delivery processes for all physical products</Description>
-            </Job>
+        <EmployerOrg>
+            <EmployerOrgName>Phantasmagoria Designs</EmployerOrgName>
+            <PositionHistory>
+                <Title>Owner, Operator</Title>
+                <OrgName>
+                    <OrganizationName>Phantasmagoria Designs</OrganizationName>
+                    
+                    </OrgName>
+                    <OrgInfo>
+                        <LocationSummary>
+                            <CountryCode>US</CountryCode>
+                        </LocationSummary>
+                    </OrgInfo>
+                    
+                <Description>-Led expansion within one year of opening from providing solely static 2D digital art creation to additionally include interactive 3D experience and web app design capabilities in the service catalog
+                -Provide Freelance, commission, and technical drafting services via online interface
+                -Oversee budgetary and financial activities and implement strategies to grow business and profits
+                -Fully automated sales and delivery processes for all physical product orders
+            </Description>
+            <StartDate><Year>2023</Year></StartDate>
+                    <EndDate><StringDate>Present</StringDate></EndDate>
+            </PositionHistory>
+        </EmployerOrg>
 
             <Job>
               <JobTitle>Director of Theatre</JobTitle> 
@@ -97,13 +112,6 @@
                   <Description>Resolved conflicts between customers or employees in a timely manner while following company guidelines for dispute resolution</Description>
         </Job>
     </EmploymentHistory>
-
-    <Languages>
-        <Language>English</Language>
-        <Language>Spanish</Language>
-        <Language>American Sign Language</Language>
-        <Language>German</Language>
-    </Languages>
 
 <AcademicHistory>
       <Degree>
@@ -213,6 +221,19 @@
         <Skill>Security-Centered Programming</Skill>
         <Skill>Technical Documentation</Skill>
         <Skill>Test-Driven Development</Skill>
+        <Languages>
+            <Language>English</Language>
+            <Language>Spanish</Language>
+            <Language>American Sign Language</Language>
+            <Language>German</Language>
+        </Languages>
+        <ProgrammingLanguagesTools>
+            <ExperiencedProfessional>HTML5/CSS3/JS/XML Stack</ExperiencedProfessional><p></p>
+            <ExperiencedProfessional>Visual Studio Code, Git, Github, Gitlab , Gitkraken</ExperiencedProfessional>
+            <ConfidentSkill>Python, SQL, W3.CSS, Vue.js, React.js, jQuery, Angular, JSON</ConfidentSkill>
+            <StudiedSkill>Atlassian, Jira, Confluence, Azure, Apache, Swift</StudiedSkill>
+            <ExposedSkill>Java, Coral, Node.js, AWS</ExposedSkill>
+        </ProgrammingLanguagesTools>
     </Skillset>
     
     <ProfessionalGoals>
@@ -233,80 +254,69 @@
         </ProfessionalGoal>
     </ProfessionalGoals>
 
-    
-    <br>
+    <Projects>
 
-    <ProgrammingLanguagesTools>
-        <ExperiencedProfessional>HTML5/CSS3/JS/XML Stack</ExperiencedProfessional><p></p>
-        <ExperiencedProfessional>Visual Studio Code, Git, Github, Gitlab , Gitkraken</ExperiencedProfessional>
-        <ConfidentSkill>Python, SQL, W3.CSS, Vue.js, React.js, jQuery, Angular, JSON</ConfidentSkill>
-        <StudiedSkill>Atlassian, Jira, Confluence, Azure, Apache, Swift</StudiedSkill>
-        <ExposedSkill>Java, Coral, Node.js, AWS</ExposedSkill>
-    </ProgrammingLanguagesTools>
+        <WebProjects>
+            <!-- Github Homepage -->
+            <Project href="https://github.com/jakechood">GitHub Home</Project>
 
-    <WebProjects>
-        <!-- Github Homepage -->
-        <Project href="https://github.com/jakechood">GitHub Home</Project>
+            <!-- Clickable SVG Map 
+            <Project href="https://jakechood.github.io/clickMap/">Angular Clickable World Map with Geonames.org API</Project> -->
+                
+            <!-- Taniti Island UX Design  -->
+            <Project href="https://jakechood.github.io/taniti/">User Experience Design, "Taniti Island Tourism" with Dark Mode</Project>
 
-        <!-- Clickable SVG Map 
-        <Project href="https://jakechood.github.io/clickMap/">Angular Clickable World Map with Geonames.org API</Project> -->
+            <!-- Pet Pros UI Design  -->
+            <Project href="https://jakechood.github.io/petpros/">User Interface Design, "Paradigm Pet Professionals"</Project>
             
-        <!-- Taniti Island UX Design  -->
-        <Project href="https://jakechood.github.io/taniti/">User Experience Design, "Taniti Island Tourism" with Dark Mode</Project>
+            <!-- First Webpage Published -->
+            <Project href="https://jakechood.github.io/first_website/">First Webpage Published</Project>
+            
+            <!-- Colorado Multipage Site -->
+            <Project href="https://jakechood.github.io/D277/">Colorado State Multipage Site</Project>
+            
+            <!-- Sanford Meisner Bio w/Section Links -->
+            <Project href="https://jakechood.github.io/W_S1M4_Project-main/">Sanford Meisner Biography with Section Links</Project>
+            
+            <!-- Responsive Menu Containers  -->
+            <Project href="https://jakechood.github.io/module2solution/">Responsive Menu Containers</Project>
+        
+            <!-- Multiple Page Nav with Dark/Light Mode  -->
+            <Project href="https://jakechood.github.io/project_1/">Multiple Page Navigation with Dark/Light Modes</Project>
+        </WebProjects>
 
-        <!-- Pet Pros UI Design  -->
-        <Project href="https://jakechood.github.io/petpros/">User Interface Design, "Paradigm Pet Professionals"</Project>
+
+    <!-- Python Modules Card -->
+
+        <PythonModules>
+            <!-- Llama -->
+            <Project href="https://replit.com/@jaceksturgill/fullllamapy#llama_wordguess">Llama Drawing with Turtle</Project>
         
-        <!-- First Webpage Published -->
-        <Project href="https://jakechood.github.io/first_website/">First Webpage Published</Project>
-        
-        <!-- Colorado Multipage Site -->
-        <Project href="https://jakechood.github.io/D277/">Colorado State Multipage Site</Project>
-        
-        <!-- Sanford Meisner Bio w/Section Links -->
-        <Project href="https://jakechood.github.io/W_S1M4_Project-main/">Sanford Meisner Biography with Section Links</Project>
-        
-        <!-- Responsive Menu Containers  -->
-        <Project href="https://jakechood.github.io/module2solution/">Responsive Menu Containers</Project>
+            <!-- Calculations -->
+            <Project href="https://replit.com/@jaceksturgill/fullllamapy#calc.py">Various Calculations</Project>
+            
+            <!-- Infinite Loop with Escape -->
+            <Project href="https://replit.com/@jaceksturgill/fullllamapy#infinite_loop.py">Infinite Loop with Escape</Project>
+            
+            <!-- Time Functions -->
+            <Project href="https://replit.com/@jaceksturgill/fullllamapy#pa1.py">Time Functions</Project>
+            
+            <!-- Secret Number -->
+            <Project href="https://replit.com/@jaceksturgill/fullllamapy#secret_num.py">Secret Number</Project>
+            
+            <!-- Secret Number -->
+            <Project href="https://replit.com/@jaceksturgill/fullllamapy#tax_thalers.py"></i>Thaler Tax</Project>
+            
+            <!-- Temperature Conversions -->
+            <Project href="https://replit.com/@jaceksturgill/fullllamapy#temperature.py">Temperature Conversions</Project>
+            
+            <!-- More Time Math -->
+            <Project href="https://replit.com/@jaceksturgill/fullllamapy#timey_math.py">More Time Math</Project>
+        </PythonModules>
+    </Projects>
     
-        <!-- Multiple Page Nav with Dark/Light Mode  -->
-        <Project href="https://jakechood.github.io/project_1/">Multiple Page Navigation with Dark/Light Modes</Project>
-    </WebProjects>
+    </ResumeAdditionalItems>
 
-
-<!-- Python Modules Card -->
-
-<div class="w3-white w3-text-grey w3-card-4">
-<div class="w3-container">
-
-    <PythonModules>
-        <!-- Llama -->
-        <Project href="https://replit.com/@jaceksturgill/fullllamapy#llama_wordguess">Llama Drawing with Turtle</Project>
-    
-        <!-- Calculations -->
-        <Project href="https://replit.com/@jaceksturgill/fullllamapy#calc.py">Various Calculations</Project>
-        
-        <!-- Infinite Loop with Escape -->
-        <Project href="https://replit.com/@jaceksturgill/fullllamapy#infinite_loop.py">Infinite Loop with Escape</Project>
-        
-        <!-- Time Functions -->
-        <Project href="https://replit.com/@jaceksturgill/fullllamapy#pa1.py">Time Functions</Project>
-        
-        <!-- Secret Number -->
-        <Project href="https://replit.com/@jaceksturgill/fullllamapy#secret_num.py">Secret Number</Project>
-        
-        <!-- Secret Number -->
-        <Project href="https://replit.com/@jaceksturgill/fullllamapy#tax_thalers.py"></i>Thaler Tax</Project>
-        
-        <!-- Temperature Conversions -->
-        <Project href="https://replit.com/@jaceksturgill/fullllamapy#temperature.py">Temperature Conversions</Project>
-        
-        <!-- More Time Math -->
-        <Project href="https://replit.com/@jaceksturgill/fullllamapy#timey_math.py">More Time Math</Project>
-    </PythonModules>
-    
-</ResumeAdditionalItems>
-</EmploymentHistory>
 </StructuredXMLResume>
 
 </Resume>
