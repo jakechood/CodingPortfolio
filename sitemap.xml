@@ -15,11 +15,11 @@
             <CountryCode>US</CountryCode>
             <PostalCode>76504</PostalCode>
         </PostalAddress>
-        <Email>jakechood@gmail.com</Email>
+        <Email href="mailto:jakechood@gmail.com">jakechood@gmail.com</Email>
         <Telephone>
             <FormattedNumber>+1.469.836.7003</FormattedNumber>
         </Telephone>
-        <InternetWebAddress>https://jakechood.com</InternetWebAddress>
+        <URL>https://jakechood.com</URL>
     </ContactMethod>
 
     
@@ -32,13 +32,188 @@
     <Objective>
         Full-Stack Software Engineer
     </Objective>
+    <EmploymentHistory>
+        <Job>
+            <JobTitle>Owner, Operator</JobTitle>
+            <Employer>
+                <Company>Phantasmagoria Designs</Company>
+            </Employer>
+              <From>2023</From> <To><Present></Present></To>
+                <Description>Led expansion within one year of opening from providing solely static 2D digital art creation to additionally include interactive 3D experience and web app design capabilities in the service catalog</Description>
+                <Description>Freelance, commission, and technical drafting services provided via online interface</Description>
+                <Description>Oversee budgetary and financial activities and implement strategies to grow business and profits</Description>
+                <Description>Full automation of sales and delivery processes for all physical products</Description>
+            </Job>
+
+            <Job>
+              <JobTitle>Director of Theatre</JobTitle> 
+                <Employer>
+                    <Campus>Rancier Middle School</Campus>
+                    <Company>Killeen I.S.D.</Company>
+                </Employer>
+                <From><Year>2021</Year></From> 
+                <To><Year>2022</Year></To></Date>
+                  <Description>Developed and maintained purchasing, accounting, ticketing, and tracking systems and processes for multiple departments</Description>
+                  <Description>Devised and implemented strategies to create new revenue streams and cut operational costs</Description>
+                  <Description>Orchestrated license agreements for script, sound, performance rights, talent media releases, and distribution contracts</Description>
+                  <Description>Observed tight deadlines, creative restrictions, and strict budgetary controls to avoid waste and streamline costs</Description>
+            </Job>
+
+            <div class="w3-container">
+              <h5 class="w3-opacity"><b>Technical&nbsp;Director &amp; UIL&nbsp;Coordinator &sol; Marshall&nbsp;ISD</b></h5>
+              <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2019 &ndash; 2020</h6>
+              <p>
+                <ul>
+                  <li>Successfully coordinated a professional agreement with representatives of Mr&period; Jason Mraz for educational creative license usage of one of his published pieces at the height of the COVID&dash;19 crisis</li>
+                  <li>Identified and approved equipment and elements required for productions, classrooms, and programs</li>
+                  <li>Coordinated logistics and operations for multiple extracurricular programs concurrently &lpar;Teams of 2&ndash;525&plus;&rpar;</li>
+                  <li>Developed, assisted with, and facilitated appropriate, efficient, and effective communication among competitive district coaching team of 72 while directing implementation of all applicable COVID&ndash;19 guidelines, logistics, and safety directives</li>
+                </ul> 
+              </p>
+              <hr>
+              <br>
+            </div>
+            <div class="w3-container">
+              <h5 class="w3-opacity"><b>Director of Theatre&nbsp;Arts, Auditorium&nbsp;Supervisor &sol; Mount&nbsp;Pleasant&nbsp;ISD</b></h5>
+              <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2017 &ndash; 2019</h6>
+              <p>
+                <ul>
+                  <li>Directed and oversaw auditorium assets, inventory, functions, and logistics including production management and development, emerging brand creation, and box office marketing and operations</li>
+                  <li>Directed development of pre-pandemic hybrid, in&ndash;person, and online training courses with assistance from campus counselors for team members with limited access</li>
+                  <li>Cultivated strong professional relationships with suppliers and key clients to drive long&ndash;term business development</li>
+                  <li>Evolved outbound sales efforts by incorporating best practices and capitalizing on industry trends</li>
+                  <li>Led sales planning, development and account management to grow existing accounts and establish new sales accounts</li>
+                </li>
+                </ul> 
+              </p>
+              <hr>
+              <br>
+            </div>
+            <div class="w3-container">
+              <h5 class="w3-opacity"><b>Server, Shift&nbsp;Leader &sol; Chili&apos;s&nbsp;Bar&nbsp;&amp;&nbsp;Grill</b></h5>
+              <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2016 &ndash; 2020</h6>
+              <p>
+                <ul>
+                  <li>Ensured customer satisfaction and handled customer complaints in a professional manner</li>
+                  <li>Provided leadership to servers and other restaurant staff members by setting an example of excellent service</li>
+                  <li>Assisted with training new servers on company policies and procedures as well as proper food handling techniques</li>
+                  <li>Resolved conflicts between customers or employees in a timely manner while following company guidelines for dispute resolution</li>
+                </ul> 
+              </p>
+              <hr>
+              <br>
+            </div>
+          </div>
+    </EmploymentHistory>
 
     <Languages>
-        <Fluent>English</Fluent>
-        <Professional>Spanish</Professional>
-        <Polite>American Sign Language</Polite>
-        <Beginner>German</Beginner>
+        <Language>English</Language>
+        <Language>Spanish</Language>
+        <Language>American Sign Language</Language>
+        <Language>German</Language>
     </Languages>
+
+<AcademicHistory>
+      <Degree>
+        <Institution>Western Governors University</Institution>
+          <Date>
+            <Month>October</Month>
+            <Year>2024</Year>
+            </Date>
+          <Level>Bachelor of Science</Level>
+          <Major>Software Engineering</Major>
+           <Annotation> 
+                <Award>I.T. Is Everywhere Scholarship Recipient</Award>
+                </Award>
+            </Annotation>
+        </Degree>
+
+        <Degree>
+            <Institution>Texas A&amp;M University-Commerce</Institution>
+            <Date>
+                <Month>August</Month>
+                <Year>2017</Year>
+            </Date>
+            <Level>Bachelor of Science</Level>
+            <Major>Theatre</Major>
+            <Minor>Interdisciplinary Studies
+                <Note>Focuses in Music and Education</Note>
+            </Minor>
+            
+            <Annotation>
+              <Achievement>Cum Laude, with Honors</Achievement>
+              <GPA>3.69<Possible>4.0</Possible></GPA>
+              <Achievement>Honors College Graduate</Achievement>
+              <Award>Valedictorian Scholarship Recipient</Award>
+              <Achievement>Vienna, Austria Studies Abroad on Choral Arts</Achievement> 
+              <Pub>Thesis:
+                <artTitle> The Importance of Relative Omniscience in Successful Modern Theatre&colon; An Academic Dissection of &ldquo;Phantasmagoria,&rdquo; A Theatrical Production Written and Designed by Jake C. Hood &lpar;Ne&eacute;&nbsp;Jace Sturgill&rpar;</artTitle>
+                <author>Jake C. Hood &lpar;Ne&eacute;&nbsp;Jace Sturgill&rpar;</author>
+
+              </Pub>
+            </Annotation>
+        </Degree>
+<Achievements>
+    <Awards>
+        
+        <Award href="https://api.badgr.io/public/assertions/5f_21AMOTU2wQ0rqxC2Jrg?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=jstur80%40wgu.edu">
+            WGU Front End Developer
+            </Award>        
+        
+        <Award>AWS Certified Cloud Practitioner
+          <Note>Validation Number 9f98d6a03cf1485ab9cf4d44f3ba4149</Note>
+          </Award>
+
+        <Award>ITILv4 Foundation Certified
+          <Note>Candidate Number 9980016826939808</Note>
+          </Award>
+
+        <Award href="https://coursera.org/verify/LUGLGHFR35YI">
+            Google Foundations of Project Management
+            </Award>
+    
+
+        <Award href="https://coursera.org/verify/T2FZUKU25B7U">
+            Google Foundations of Cybersecurity
+            </Award>
+        
+        <Award href="https://coursera.org/verify/U7RRP88775C">
+            Learn to Program: The Fundamentals &vert; University of Toronto</Award>
+          <hr>
+        </div>
+
+        <Award href="https://coursera.org/verify/RSRHWZFCLFMB">
+            Google Connect and Protect: Networks and Network Security
+          </Award>
+
+        <Award href="https://coursera.org/verify/8LTHLD55QGAX">
+            Google Play it Safe: Manage Security Risks
+          </Award>
+
+        <Award>Texas Educator: Theatre EC-12
+            <Note>TEA ID 2116690</Note>
+        </Award>
+          
+          <hr>
+        </div>
+      </div>
+      
+      <Award>Director of Advancing Play and Best Technical Crew</b></h5>
+          <Date>March 2022</Date>
+          UIL Theatre Competition</p>
+          <hr>
+          </Award>
+
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Employee of the Month</b></h5>
+          <p>December 2019 &vert; Chili&apos;s Grill and Bar</p>
+          <hr>
+        </div>
+    </Awards>
+</Achievements>
+</AcademicHistory>
+    <ResumeAdditionalItems>
+    
 
     <Skillset>
         <Skill>Creative Design</Skill>
@@ -47,7 +222,7 @@
         <Skill>Technical Documentation</Skill>
         <Skill>Test-Driven Development</Skill>
     </Skillset>
-
+    
     <ProfessionalGoals>
         <ProfessionalGoal>
             <GoalYear>2024</GoalYear>
@@ -65,6 +240,7 @@
             <GoalDetail>Publish public/open-source gamified, accessible, extended-reality performing arts education solution</GoalDetail>
         </ProfessionalGoal>
     </ProfessionalGoals>
+
     
     <br>
 
@@ -76,7 +252,7 @@
         <ExposedSkill>Java, Coral, Node.js, AWS</ExposedSkill>
     </ProgrammingLanguagesTools>
 
-    <Projects>
+    <WebProjects>
         <!-- Github Homepage -->
         <Project href="https://github.com/jakechood">GitHub Home</Project>
 
@@ -103,7 +279,7 @@
     
         <!-- Multiple Page Nav with Dark/Light Mode  -->
         <Project href="https://jakechood.github.io/project_1/">Multiple Page Navigation with Dark/Light Modes</Project>
-    </Projects>
+    </WebProjects>
 
 
 <!-- Python Modules Card -->
@@ -111,202 +287,34 @@
 <div class="w3-white w3-text-grey w3-card-4">
 <div class="w3-container">
 
-    <p class="w3-large"><b><i class="fa fa-code-fork fa-fw w3-margin-right w3-text-purple"></i>Python Modules</b></p>
-    <!-- Llama -->
-    <p><a href="https://replit.com/@jaceksturgill/fullllamapy#llama_wordguess"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>Llama Drawing with Turtle</a></p>
-    <!-- Calculations -->
-    <p><a href="https://replit.com/@jaceksturgill/fullllamapy#calc.py"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>Various Calculations</a></p>
-    <!-- Infinite Loop with Escape -->
-    <p><a href="https://replit.com/@jaceksturgill/fullllamapy#infinite_loop.py"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>Infinite Loop with Escape</a></p>
-    <!-- Time Functions -->
-    <p><a href="https://replit.com/@jaceksturgill/fullllamapy#pa1.py"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>Time Functions</a></p>
-    <!-- Secret Number -->
-    <p><a href="https://replit.com/@jaceksturgill/fullllamapy#secret_num.py"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>Secret Number</a></p>
-    <!-- Secret Number -->
-    <p><a href="https://replit.com/@jaceksturgill/fullllamapy#tax_thalers.py"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>Thaler Tax</a></p>
-    <!-- Temperature Conversions -->
-    <p><a href="https://replit.com/@jaceksturgill/fullllamapy#temperature.py"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>Temperature Conversions</a></p>
-    <!-- More Time Math -->
-    <p><a href="https://replit.com/@jaceksturgill/fullllamapy#timey_math.py"><i class="fa fa-link fa-fw w3-margin-right w3-large w3-text-purple"></i>More Time Math</a></p>
-
+    <PythonModules>
+        <!-- Llama -->
+        <Project href="https://replit.com/@jaceksturgill/fullllamapy#llama_wordguess">Llama Drawing with Turtle</Project>
     
-
-
-<!-- Work Experience Card -->
-<div class="w3-container w3-card w3-white w3-margin-bottom">
-    <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-purple"></i>Work Experience</h2>
-    <div class="w3-container">
-    <h5 class="w3-opacity"><b>Owner, Operator / Phantasmagoria Designs</b></h5>
-    <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2023 &ndash; <span class="w3-tag w3-purple w3-round">Current</span></h6>
-    <p>
-        <ul>
-        <li>Led expansion within one year of opening from providing solely static 2D digital art creation to additionally include interactive 3D experience and web app design capabilities in the service catalog</li>
-        <li>Freelance, commission, and technical drafting services provided via online interface</li>
-        <li>Oversee budgetary and financial activities and implement strategies to grow business and profits</li>
-        <li>Full automation of sales and delivery processes for all physical products</li>
-        </ul>
-    </p>
-    <hr>
-    </div>
-    <div class="w3-container">
-    <h5 class="w3-opacity"><b>Director of Theatre / Rancier Middle School</b></h5>
-    <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2021 &ndash; 2022</h6>
-    <p>
-        <ul>
-        <li>Developed and maintained purchasing, accounting, ticketing, and tracking systems and processes for multiple departments</li>
-        <li>Devised and implemented strategies to create new revenue streams and cut operational costs</li>
-        <li>Orchestrated license agreements for script, sound, performance rights, talent media releases, and distribution contracts</li>
-        <li>Observed tight deadlines, creative restrictions, and strict budgetary controls to avoid waste and streamline costs</li>
-        </ul>
-    </p>
-    <hr>
-    </div>
-    <div class="w3-container">
-    <h5 class="w3-opacity"><b>Technical Director &amp; UIL Coordinator / Marshall ISD</b></h5>
-    <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2019 &ndash; 2020</h6>
-    <p>
-        <ul>
-        <li>Successfully coordinated a professional agreement with representatives of Mr. Jason Mraz for educational creative license usage of one of his published pieces at the height of the COVID&dash;19 crisis</li>
-        <li>Identified and approved equipment and elements required for productions, classrooms, and programs</li>
-        <li>Coordinated logistics and operations for multiple extracurricular programs concurrently &lpar;Teams of 2&ndash;525&plus;&rpar;</li>
-        <li>Developed, assisted with, and facilitated appropriate, efficient, and effective communication among competitive district coaching team of 72 while directing implementation of all applicable COVID&ndash;19 guidelines, logistics, and safety directives</li>
-        </ul> 
-    </p>
-    <hr>
-    <br>
-    </div>
-    <div class="w3-container">
-    <h5 class="w3-opacity"><b>Director of Theatre Arts, Auditorium Supervisor / Mount Pleasant ISD</b></h5>
-    <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2017 &ndash; 2019</h6>
-    <p>
-        <ul>
-        <li>Directed and oversaw auditorium assets, inventory, functions, and logistics including production management and development, emerging brand creation, and box office marketing and operations</li>
-        <li>Directed development of pre-pandemic hybrid, in&ndash;person, and online training courses with assistance from campus counselors for team members with limited access</li>
-        <li>Cultivated strong professional relationships with suppliers and key clients to drive long&ndash;term business development</li>
-        <li>Evolved outbound sales efforts by incorporating best practices and capitalizing on industry trends</li>
-        <li>Led sales planning, development and account management to grow existing accounts and establish new sales accounts</li>
-        </li>
-        </ul> 
-    </p>
-    <hr>
-    <br>
-    </div>
-    <div class="w3-container">
-    <h5 class="w3-opacity"><b>Server, Shift Leader / Chili&apos;s Bar &amp; Grill</b></h5>
-    <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2016 &ndash; 2020</h6>
-    <p>
-        <ul>
-        <li>Ensured customer satisfaction and handled customer complaints in a professional manner</li>
-        <li>Provided leadership to servers and other restaurant staff members by setting an example of excellent service</li>
-        <li>Assisted with training new servers on company policies and procedures as well as proper food handling techniques</li>
-        <li>Resolved conflicts between customers or employees in a timely manner while following company guidelines for dispute resolution</li>
-        </ul> 
-    </p>
-    <hr>
-    <br>
-    </div>
-</div>
-
-<div class="w3-container w3-card w3-white w3-margin-bottom">
-    <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-purple"></i>Education</h2>
-    <div class="w3-container">
-    <h5 class="w3-opacity"><b>Western Governors University</b></h5>
-    <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Expected 10/2024</h6>
-    <p>Bachelor of Science in Software Engineering</p>
-    <p>
-        <ul>
-        <li>I.T. is Everywhere Scholarship Recipient</li>
-        </ul>
-    </p>
-    <hr>
-    </div>
-    <div class="w3-container">
-    <h5 class="w3-opacity"><b>Texas A&amp;M University&ndash;Commerce</b></h5>
-    <h6 class="w3-text-purple"><i class="fa fa-calendar fa-fw w3-margin-right"></i>8/2017</h6>
-    <p>Bachelor of Science in Theatre</p>
-    <p>
-        <ul>
-        <li>Cum Laude, with Honors</li>
-        <li>GPA&colon; 3.69</li>
-        <li>Minor in Interdisciplinary Studies&semi; Focus in Music and Education</li>
-        <li>Honors College Graduate</li>
-        <li>Valedictorian Scholarship Recipient</li>
-        <li>Vienna, Austria Studies Abroad on Choral Arts</li> 
-        <li>Thesis&colon; The Importance of Relative Omniscience in Successful Modern Theatre&colon; An Academic Dissection of &ldquo;Phantasmagoria,&rdquo; A Theatrical Production Written and Designed by Jake &lpar;Ne&eacute; Jace&rpar; Sturgill</li>
-        </ul>
-    </p>
-    <hr>
-    </div>
-</div>
-
-<div class="w3-container w3-card w3-white w3-margin-bottom">
-    <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-shield fa-fw w3-margin-right w3-xxlarge w3-text-purple"></i>Certifications</h2>
+        <!-- Calculations -->
+        <Project href="https://replit.com/@jaceksturgill/fullllamapy#calc.py">Various Calculations</Project>
+        
+        <!-- Infinite Loop with Escape -->
+        <Project href="https://replit.com/@jaceksturgill/fullllamapy#infinite_loop.py">Infinite Loop with Escape</Project>
+        
+        <!-- Time Functions -->
+        <Project href="https://replit.com/@jaceksturgill/fullllamapy#pa1.py">Time Functions</Project>
+        
+        <!-- Secret Number -->
+        <Project href="https://replit.com/@jaceksturgill/fullllamapy#secret_num.py">Secret Number</Project>
+        
+        <!-- Secret Number -->
+        <Project href="https://replit.com/@jaceksturgill/fullllamapy#tax_thalers.py"></i>Thaler Tax</Project>
+        
+        <!-- Temperature Conversions -->
+        <Project href="https://replit.com/@jaceksturgill/fullllamapy#temperature.py">Temperature Conversions</Project>
+        
+        <!-- More Time Math -->
+        <Project href="https://replit.com/@jaceksturgill/fullllamapy#timey_math.py">More Time Math</Project>
+    </PythonModules>
     
-    <div class="w3-container">
-    <h5 class="w3-opacity"><a href="https://api.badgr.io/public/assertions/5f_21AMOTU2wQ0rqxC2Jrg?identity__email=jstur80%40wgu.edu"><b>WGU Front End Developer</b></a></h5>
-    <iframe src="https://api.badgr.io/public/assertions/5f_21AMOTU2wQ0rqxC2Jrg?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=jstur80%40wgu.edu" title="Badge: WGU Certificate: Front-End Developer" style="width: 330px; height: 191px; border: 0px;"></iframe>
-    <hr>
-    </div>
-    
-    
-    <div class="w3-container">
-    <h5 class="w3-opacity"><b>AWS Certified Cloud Practitioner</b></h5>
-    <p>Validation Number 9f98d6a03cf1485ab9cf4d44f3ba4149</p>
-    <hr>
-    </div>
-
-    <div class="w3-container">
-    <h5 class="w3-opacity"><b>ITILv4 Foundation Certified</b></h5>
-    <p>Candidate Number 9980016826939808</p>
-    <hr>
-    </div>
-
-    <div class="w3-container">
-    <h5 class="w3-opacity"><b><a href="https://coursera.org/verify/LUGLGHFR35YI">Google Foundations of Project Management</a></b></h5>
-    <hr>
-    </div>
-
-    <div class="w3-container">
-    <h5 class="w3-opacity" ><b><a href="https://coursera.org/verify/T2FZUKU25B7U">Google Foundations of Cybersecurity</a></b></h5>
-    <hr>
-    </div>
-    
-    <div class="w3-container">
-    <h5 class="w3-opacity"><a href="https://coursera.org/verify/U7RRP88775C"><b>Learn to Program&colon; The Fundamentals &vert; University of Toronto</a></b></h5>
-    <hr>
-    </div>
-
-    <div class="w3-container">
-    <h5 class="w3-opacity" ><b><a href="https://coursera.org/verify/RSRHWZFCLFMB">Google Connect and Protect&colon; Networks and Network Security</a></b></h5>
-    <hr>
-    </div>
-
-    <div class="w3-container">
-    <h5 class="w3-opacity"><b><a href="https://coursera.org/verify/8LTHLD55QGAX">Google Play it Safe&colon; Manage Security Risks</a></b></h5>
-    <hr>
-    </div>
-
-    <div class="w3-container">
-    <h5 class="w3-opacity"><b>Texas Educator&colon; Theatre EC&ndash;12</b></h5>
-    <p>TEA ID 2116690</p>
-    <hr>
-    </div>
-</div>
-
-<div class="w3-container w3-card w3-white w3-margin-bottom">
-    <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-trophy fa-fw w3-margin-right w3-xxlarge w3-text-purple"></i>Accomplishments</h2>
-    <div class="w3-container">
-    <h5 class="w3-opacity"><b>Director of Advancing Play and Best Technical Crew</b></h5>
-    <p>March 2022 &vert; UIL Theatre Competition</p>
-    <hr>
-    </div>
-
-    <div class="w3-container">
-    <h5 class="w3-opacity"><b>Employee of the Month</b></h5>
-    <p>December 2019 &vert; Chili&apos;s Grill and Bar</p>
-    <hr>
-    </div>
-</div>
+</ResumeAdditionalItems>
+</EmploymentHistory>
 </StructuredXMLResume>
 
 </Resume>
