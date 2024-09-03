@@ -6,7 +6,7 @@
  <ContactInfo>
     <PersonName>
         <GivenName>Jake</GivenName>
-        <MiddleName>C</MiddleName>
+        <MiddleName>C&period;</MiddleName>
         <FamilyName>Hood</FamilyName>
         
     </PersonName>
