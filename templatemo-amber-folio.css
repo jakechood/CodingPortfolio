@@ -1113,3 +1113,13 @@ footer {
 	opacity: 1;
 	transform: translateY(0);
 }
+
+/* User added functions */
+
+.rotateLeft {
+	transform: rotate(270);
+}
+
+.rotateRight {
+	transform: rotate(90);
+}
