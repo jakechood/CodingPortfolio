@@ -133,7 +133,7 @@ nav {
 	left: 50%;
 	width: 0;
 	height: 0;
-	background: radial-gradient(circle, rgba(243, 156, 18, 0.15) 0%, transparent 70%);
+	background: radial-gradient(circle, rgba(148, 64, 204, 0.15) 0%, transparent 70%);
 	border-radius: 50%;
 	transform: translate(-50%, -50%);
 	transition: all 0.4s ease;
@@ -143,9 +143,9 @@ nav {
 .nav-menu a:hover {
 	color: rgba(255, 255, 255, 0.9);
 	background: linear-gradient(135deg,
-			rgba(243, 156, 18, 0.08) 0%,
-			rgba(243, 156, 18, 0.03) 100%);
-	border-color: rgba(243, 156, 18, 0.2);
+			rgba(148, 64, 204, 0.08) 0%,
+			rgba(148, 64, 204, 0.03) 100%);
+	border-color: rgba(148, 64, 204, 0.2);
 	transform: translateY(-1px);
 }
 
@@ -157,8 +157,8 @@ nav {
 
 .nav-menu a.active {
 	color: var(--accent-color);
-	background: rgba(243, 156, 18, 0.1);
-	border-color: rgba(243, 156, 18, 0.25);
+	background: rgba(148, 64, 204, 0.1);
+	border-color: rgba(148, 64, 204, 0.25);
 }
 
 /* Mobile Menu Toggle */
@@ -196,9 +196,9 @@ nav {
 	bottom: 0;
 	opacity: 0.2;
 	background-image:
-		repeating-linear-gradient(45deg, transparent, transparent 35px, rgba(243, 156, 18, 0.04) 35px, rgba(243, 156, 18, 0.04) 70px),
+		repeating-linear-gradient(45deg, transparent, transparent 35px, rgba(148, 64, 204, 0.04) 35px, rgba(148, 64, 204, 0.04) 70px),
 		repeating-linear-gradient(-45deg, transparent, transparent 35px, rgba(255, 255, 255, .04) 35px, rgba(255, 255, 255, .04) 70px),
-		repeating-linear-gradient(90deg, transparent, transparent 50px, rgba(243, 156, 18, 0.03) 50px, rgba(243, 156, 18, 0.03) 100px);
+		repeating-linear-gradient(90deg, transparent, transparent 50px, rgba(148, 64, 204, 0.03) 50px, rgba(148, 64, 204, 0.03) 100px);
 }
 
 /* Animated geometric shapes for hero background */
@@ -209,10 +209,10 @@ nav {
 	right: 10%;
 	width: 300px;
 	height: 300px;
-	border: 2px solid rgba(243, 156, 18, 0.15);
+	border: 2px solid #9440cc;
 	border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
 	animation: morphShape 20s ease-in-out infinite;
-	background: radial-gradient(circle at 30% 50%, rgba(243, 156, 18, 0.03), transparent 70%);
+	background: radial-gradient(circle at 30% 50%, rgba(148, 64, 204, 0.3), transparent 70%);
 }
 
 .hero-section::after {
@@ -222,11 +222,11 @@ nav {
 	left: 5%;
 	width: 280px;
 	height: 280px;
-	border: 2px solid rgba(243, 156, 18, 0.12);
+	border: 2px solid #9440cc;
 	border-radius: 50%;
 	animation: rotateShape 25s linear infinite;
-	background: radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.02), transparent 60%);
-	box-shadow: 0 0 40px rgba(243, 156, 18, 0.1);
+	background: radial-gradient(circle at 50% 50%, rgba(148, 64, 204, 0.3), transparent 60%);
+	box-shadow: 0 0 40px #9440cc;
 }
 
 /* Additional floating accent shapes */
@@ -241,7 +241,7 @@ nav {
 
 .floating-accent {
 	position: absolute;
-	border: 1px solid rgba(243, 156, 18, 0.1);
+	border: 1px solid #9440cc;
 	animation: float 15s ease-in-out infinite;
 }
 
@@ -270,7 +270,7 @@ nav {
 	height: 80px;
 	border-radius: 50%;
 	animation-delay: -10s;
-	border-color: rgba(255, 255, 255, 0.05);
+	border-color: rgba(148, 64, 204, 0.3);
 }
 
 @keyframes morphShape {
@@ -369,7 +369,7 @@ nav {
 
 .cta-button:hover {
 	transform: translateY(-2px);
-	box-shadow: 0 10px 30px rgba(243, 156, 18, 0.3);
+	box-shadow: 0 10px 30px #9440cc;
 }
 
 /* Portfolio Section with Coverflow */
@@ -554,7 +554,7 @@ nav {
 	width: 45px;
 	height: 45px;
 	border: 2px solid rgba(255, 255, 255, 0.2);
-	background: rgba(26, 26, 26, 0.8);
+	background: #9440cc;
 	backdrop-filter: blur(10px);
 	color: var(--text-light);
 	cursor: pointer;
@@ -729,7 +729,7 @@ nav {
 
 .service-card:hover {
 	transform: translateY(-10px);
-	border-color: rgba(243, 156, 18, 0.3);
+	border-color: #9440cc;
 	box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
 	background: linear-gradient(135deg, rgba(30, 30, 30, 0.9), rgba(20, 20, 20, 1));
 }
@@ -741,14 +741,14 @@ nav {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background: linear-gradient(135deg, rgba(243, 156, 18, 0.1), rgba(243, 156, 18, 0.05));
+	background: linear-gradient(135deg, rgba(148, 64, 204, 0.1), rgba(148, 64, 204, 0.05));
 	border-radius: 50%;
 	transition: all 0.4s ease;
 }
 
 .service-card:hover .service-icon {
 	transform: scale(1.1);
-	background: linear-gradient(135deg, rgba(243, 156, 18, 0.15), rgba(243, 156, 18, 0.1));
+	background: linear-gradient(135deg, rgba(148, 64, 204, 0.15), rgba(148, 64, 204, 0.1));
 }
 
 .service-icon svg {
@@ -832,7 +832,7 @@ nav {
 .contact-item:hover {
 	transform: translateY(-8px) scale(1.02);
 	box-shadow: 0 15px 35px rgba(0, 0, 0, 0.6);
-	border-color: rgba(243, 156, 18, 0.3);
+	border-color: rgba(148, 64, 204, 0.3);
 }
 
 .contact-icon {
@@ -842,14 +842,14 @@ nav {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background: linear-gradient(135deg, rgba(243, 156, 18, 0.1), rgba(243, 156, 18, 0.05));
+	background: linear-gradient(135deg, rgba(148, 64, 204, 0.1), rgba(148, 64, 204, 0.05));
 	border-radius: 50%;
 	transition: all 0.4s ease;
 }
 
 .contact-item:hover .contact-icon {
 	transform: rotate(5deg) scale(1.1);
-	background: linear-gradient(135deg, rgba(243, 156, 18, 0.2), rgba(243, 156, 18, 0.1));
+	background: linear-gradient(135deg, rgba(148, 64, 204, 0.2), rgba(148, 64, 204, 0.1));
 }
 
 .contact-icon svg {
